@@ -1,0 +1,14 @@
+/* Apply Poppins font to the entire app */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Apply the Poppins font as the default font for the entire app */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Apply a grey background to the entire app */
+.bg-grey {
+  background-color: #f4f4f4;
+}
+
+/* Add more global styling here if needed */
