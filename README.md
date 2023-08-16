@@ -19,7 +19,7 @@ To set up the client application locally, follow these straightforward steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/library-app-client.git
+   git clone https://github.com/amansinha0401/lms-frontend
    cd library-app-client
    ```
 
